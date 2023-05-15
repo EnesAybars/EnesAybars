@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EnesAybars
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Software Development Engineer in Test
+- 🌱 I’m currently learning Cypress
 - 📫 You can reach me via email - aybarsaybars7@gmail.com -
 
 <!---
