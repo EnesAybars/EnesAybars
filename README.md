@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EnesAybars
-- 👀 I’m Software Development Engineer in Test
-- 🌱 I’m currently learning Cypress
-- 📫 You can reach me via email - aybarsaybars7@gmail.com -
+- 👀 I’m QA Automation Engineer
+- 📫 You can reach me via email - aybarsaybars7@gmail.com
 
 <!---
 EnesAybars/EnesAybars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
